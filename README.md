@@ -1,2 +1,3 @@
 # toy_ds_project
-project creation date: Oct 9th.
+Project creation date: Oct 9th.
+Author: Nuna Li
